@@ -4,13 +4,14 @@ title: Graduation of M.Sc Information Sciences and Technologies
 date: 2024-12-06 06:59:00
 description: I finally graduated from my Masters of Science degree now.
 tags: UAM
-categories: UAM PCYTI
+categories: Personal
 thumbnail: assets/img/examen_grado_1.jpg
 images:
   lightbox2: true
   photoswipe: true
   spotlight: true
   venobox: true
+related_posts: false
 ---
 
 I'm delighted to share this personal milestone. The past two years have been filled with constant challenges, but I've learned and grown so much.
