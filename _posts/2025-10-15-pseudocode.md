@@ -1,7 +1,6 @@
 ---
 layout: prueba
-title: a post with pseudo code
-date: 2025-10-8 00:01:00
+title: Colaboracion Github
 description: this is what included pseudo code could look like
 tags: formatting code
 categories: sample-posts
