@@ -12,6 +12,8 @@ La autenticación consiste en crear primero las llaves SSH en el equipo.
 
 El objeto a etiquetar en este caso es el Dron ocupe mas del 60 % de la imagen (Que se encuentre cerca).<br>
 
+prueba
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/nearby_drone.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
