@@ -1,13 +1,25 @@
 ---
-layout: prueba
-title: Colaboracion Github
-description: this is what included pseudo code could look like
-tags: formatting code
-categories: sample-posts
+layout: post
+title: Autenticar cuenta de GitHub vía SSH
+date: 2025-03-05 15:09:00
+description: La autenticación consiste en crear primero las llaves en el equipo.this is what included pseudo code could look like
+tags: Linux
+categories: Work
 pseudocode: true
 ---
 
-This is an example post with some pseudo code rendered by [pseudocode](https://github.com/SaswatPadhi/pseudocode.js). The example presented here is the same as the one in the [pseudocode.js](https://saswat.padhi.me/pseudocode.js/) documentation, with only one simple but important change: everytime you would use `$`, you should use `$$` instead. Also, note that the `pseudocode` key in the front matter is set to `true` to enable the rendering of pseudo code. As an example, using this code:
+La autenticación consiste en crear primero las llaves SSH en el equipo.
+
+El objeto a etiquetar en este caso es el Dron ocupe mas del 60 % de la imagen (Que se encuentre cerca).<br>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/nearby_drone.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/nearby_drone2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ````markdown
 ```pseudocode
